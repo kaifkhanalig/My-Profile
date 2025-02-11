@@ -1,2 +1,2 @@
 # My-Profile
-This is my about profile
+This is My Profile
